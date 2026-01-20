@@ -1,1 +1,1 @@
-[YuanyueSEI]@智慧教育平台导入模式扩展包@{https://ghfast.top/?q=https%3A%2F%2Fgithub.com%2FCN-Air84%2FYuanYue-TTS%2Freleases%2Fdownload%2Fpre-release-0.9.0-Test7%2FYuanyueSEI.7z}<UnzipTo SEI222/>
+[YuanyueSEI]@智慧教育平台导入模式扩展包@{https%3A%2F%2Fgithub.com%2FCN-Air84%2FYuanYue-TTS%2Freleases%2Fdownload%2Fpre-release-0.9.0-Test7%2FYuanyueSEI.7z}<UnzipTo SEI222/>
