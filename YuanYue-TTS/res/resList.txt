@@ -1,1 +1,3 @@
 [YuanyueSEI]@智慧教育平台导入模式扩展包@{https%3A%2F%2Fgithub.com%2FCN-Air84%2FYuanYue-TTS%2Freleases%2Fdownload%2Fpre-release-0.9.0-Test7%2FYuanyueSEI.7z}<UnzipTo SEI222/>
+[微信]@测试01@{https://dldir1v6.qq.com/weixin/Universal/Windows/WeChatWin_4.1.6.exe}
+[wechat32]@测试02@{https://dldir1v6.qq.com/weixin/Windows/WeChatSetup_x86.exe}
